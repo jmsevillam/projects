@@ -4,14 +4,14 @@
 Here we want to gather some ideas from different fields
 
 ### Statistical Mechanics
-- [link](github.com/jmsevillam/ising) Ising Model
-- [link](github.com/jmsevillam/thermo_calculations) Thermodynamic calculations (From MD simulations)
-- [link](github.com/jmsevillam/md) Molecular Dynamics
-- [link](github.com/jmsevillam/polymers) Polymer Simulations
+- [link](https://github.com/jmsevillam/ising) Ising Model
+- [link](https://github.com/jmsevillam/thermo_calculations) Thermodynamic calculations (From MD simulations)
+- [link](https://github.com/jmsevillam/md) Molecular Dynamics
+- [link](https://github.com/jmsevillam/polymers) Polymer Simulations
 ### Quantum Mechanics
-- [link](github.com/jmsevillam/semiclassical) Semiclassical propagation
+- [link](https://github.com/jmsevillam/semiclassical) Semiclassical propagation
 ### Classical Mechanics
-- [link](github.com/jmsevillam/dynamical_systems) Dynamical systems
-- [link](github.com/jmsevillam/integrators) Symplectic integrators
-- [link](github.com/jmsevillam/laplace) Laplace Equation
+- [link](https://github.com/jmsevillam/dynamical_systems) Dynamical systems
+- [link](https://github.com/jmsevillam/integrators) Symplectic integrators
+- [link](https://github.com/jmsevillam/laplace) Laplace Equation
 ### 
