@@ -7,6 +7,7 @@ Here we want to gather some ideas from different fields
 - Ising Model
 - Thermodynamic calculations (From MD simulations)
 - Molecular Dynamics
+- Polymer Simulations
 ### Quantum Mechanics
 - Semiclassical propagation
 ### Classical Mechanics
